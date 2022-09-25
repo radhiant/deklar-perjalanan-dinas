@@ -1,0 +1,11 @@
+{
+  "dark_mode" : "الوضع المظلم",
+  "language" : "لغة",
+  "light_mode": "وضع الضوء",
+  "settings": "ضبط",
+  "left_to_right": "من اليسار إلى اليمين",
+  "right_to_left": "من اليمين الى اليسار",
+  "changelog" : "سجل التغيير",
+  "documentation": "توثيق",
+  "buy_now": "اشتري الآن"
+}

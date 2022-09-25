@@ -1,0 +1,11 @@
+{
+  "dark_mode" : "Mode sombre",
+  "language" : "Langue",
+  "light_mode": "Mode lumière",
+  "settings": "Paramètres",
+  "left_to_right": "De gauche à droite",
+  "right_to_left": "De droite à gauche",
+  "changelog" : "Journal des modifications",
+  "documentation": "La documentation",
+  "buy_now": "ACHETER MAINTENANT"
+}
