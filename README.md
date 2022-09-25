@@ -8,7 +8,7 @@ Teknologi untuk membuat aplikasi Deklarasi sebagai berikut :
 
 - Flutter
 
-- API
+- REST API
 
 - PHP
 
@@ -18,7 +18,7 @@ Fitur yang ada di aplikasi Deklarasi :
 
 - Surat Tugas
 
-- Pengeluaran
+- Pengeluaran (bisa Offline/Online)
 
 - Sinkronisasi
 
